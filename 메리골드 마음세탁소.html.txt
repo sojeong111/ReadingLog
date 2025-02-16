@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>메리골드 마음세탁소</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+<h1>
+    메리골드 마음세탁소
+    <a href="index.html" class="button">목차</a>
+</h1>
+<ul>
+    <li><h3>작가</h3></li>
+    <h3>윤정은</h3>
+    <li><h3>출판일</h3></li>
+    <h3>2023년</h3>
+    <li><h3>감상평에 대한 AI그림</h3></li>
+    <h3> 누구나 사소한고민, 아픈기억들을 가지고 있고 잊고싶은 생각들이 있기 마련인데 아예 잊거나 부분간직을 할수있는 지은의 능력을 나도 갖고싶다. <br> 
+    </h3>
+    <img src="메리골드마음세탁소 책에 관련된 그림" alt=메리골드 마음세탁소">
+    <li><h3>감상평에 대한 AI평가</h3></li>
+    <h3>~~~~AI평가~~~~~<br>
+        &#10024; ~~~~AI평가~~~~~<br>
+        &#10024; ~~~~AI평가~~~~~<br>
+        &#10024; ~~~~AI평가~~~~~<br>
+    </h3>
+</ul>
+
+</body>
+</html>
